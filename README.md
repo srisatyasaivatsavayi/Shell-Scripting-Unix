@@ -1,0 +1,2 @@
+# Shell-Scripting-Unix
+writing a shell script that reads a log file and answer which IP addresses makes the most number of connection attempts, which IP addresses makes the most number of successful connection attempts, what are the most common result codes and where do they come from (IP number), what are the most common result codes that indicate failure (no auth, not found etc) and where do they come from, which IP number get the most bytes sent to them. 
